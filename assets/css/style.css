@@ -22,8 +22,7 @@ h1 {
     text-align: center;
     background: #4aaaa5;
     width: 16%;
-    position: relative;
-    left: 260px;
+    margin-left: 270px;
 }
 
 a {
@@ -51,6 +50,8 @@ hr {
     background: #ffffff;
     height: 400px;
     padding: 20px;
+    margin-left: 270px;
+    margin-right: 20px;
 
 }
 
